@@ -1,4 +1,4 @@
-#Docker Logs Advanced Project
+# Docker Logs Advanced Project
 
 This project explores advanced Docker logging mechanisms, log rotation, external logging drivers, and log aggregation using the ELK (Elasticsearch, Logstash, Kibana) stack. The goal is to manage, rotate, and visualize logs from Docker containers.
 
